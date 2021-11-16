@@ -1,0 +1,37 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Rhetoric"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "321876c7-f4e8-cab8-173c-d2af1e28554d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Argumentation and Communication",
+  "course_description": "This Communication and Argumentation seminar is an intensive writing workshop that focuses on argumentation and communication. Students learn to write and present their ideas in cogent, persuasive arguments and other analytical frameworks. Reading and writing assignments and other exercises stress the connections between clear thinking, critical reading, and effective writing.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.225",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
